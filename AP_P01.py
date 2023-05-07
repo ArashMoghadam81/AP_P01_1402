@@ -99,7 +99,7 @@ while True:
             print(''' 
                   1: Add products to your inventory.
                   2: Change quantity of your products.
-                  3: Back to select role menu.
+                  3: Show My Inventory Objects..
                   4: َAccounting
                   5: Back to select role menu.
                   ''')
